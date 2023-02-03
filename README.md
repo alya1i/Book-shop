@@ -15,7 +15,7 @@ Features
 * Header with links to "My Account", "About", and "Install App"
 * Footer with links to "Content", "Shopping Cart", "Login", and "Sign Up
 
-Technology stack
+Technology stack <br>
 The project is built using HTML, CSS, JavaScript,php, and a database management system  MySQL .
 
 Screenshots
